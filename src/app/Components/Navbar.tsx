@@ -9,8 +9,8 @@ const Navbar = () => {
       <ul className='flex gap-3 mr-4 cursor-pointer'>
         <Link className='hover:text-blue-700' href="/">Home</Link>
         <Link className='hover:text-orange-700' href="/">About</Link>
-        <Link className='hover:text-pink-800' href="/">Contact</Link> content-2
-        <Link className='hover:text-amber-700' href="/">Skills</Link>content1
+        <Link className='hover:text-pink-800' href="/">Contact</Link> 
+        <Link className='hover:text-amber-700' href="/">Skills</Link>
         
 </ul>
     </div>
